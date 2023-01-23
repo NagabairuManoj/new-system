@@ -4,5 +4,5 @@ hellohi 2nd line
 gitkraken
 **line from dev**
 ** 2nd time from dev**
-
 *** this line is from dev1 ***
+**3rd line after dev1**
