@@ -6,4 +6,5 @@ gitkraken
 ** 2nd time from dev**
 *** this line is from dev1 ***
 **3rd line after dev1**
+**4th line from dev**
 ***from dev1 for conflict***
