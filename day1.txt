@@ -9,3 +9,4 @@ gitkraken
 **4th line from dev**
 **line from dev for conflict**
 ***from dev1 for conflict***
+from github master
