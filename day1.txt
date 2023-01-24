@@ -7,4 +7,6 @@ gitkraken
 *** this line is from dev1 ***
 **3rd line after dev1**
 **4th line from dev**
+**line from dev for conflict**
+***from dev1 for conflict***
 from github master
